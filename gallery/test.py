@@ -32,9 +32,10 @@ with open("index.md", "w", encoding='utf-8') as f:
     count = len(image_names)
     for name in image_names:
         count = count - 1
+        name_without_extension = os.path.splitext(name)[0]
         if count == 0:
-            formatted_string = f'''        ["gallery/images/{name}","gallery/images/{name}","img_caption"]'''
+            formatted_string = f'''        ["gallery/images/{name}","gallery/images/{name}",{name_without_extension}]'''
         else:            
-            formatted_string = f'''        ["gallery/images/{name}","gallery/images/{name}","img_caption"],\n'''
+            formatted_string = f'''        ["gallery/images/{name}","gallery/images/{name}",{name_without_extension}],\n'''
         f.write(formatted_string)
     f.write(postfix)
