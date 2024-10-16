@@ -16,14 +16,19 @@ postfix = '''
 '''
 
 def get_sorted_image_names(folder_path):
-    image_extensions = [".jpg", ".jpeg", ".png", ".bmp",".gif",".webp"]
+    # 获取文件列表及其修改时间
     image_names = []
-    for root, dirs, files in os.walk(folder_path):
-        for file in files:
-            if file.lower().endswith(tuple(image_extensions)):
-                image_names.append(file)
-    image_names.sort()
-    return image_names
+    for filename in os.listdir(folder_path):
+        if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.gif')):  # 你可以根据需要修改文件类型
+            full_path = os.path.join(folder_path, filename)
+            modification_time = os.path.getmtime(full_path)
+            image_names.append((filename, modification_time))
+
+    # 根据修改时间排序，从新到旧
+    image_names.sort(key=lambda x: x[1], reverse=True)
+
+    # 返回只包含文件名的列表
+    return [name for name, _ in image_names]
 
 folder_path = "images"
 image_names = get_sorted_image_names(folder_path)
@@ -32,7 +37,11 @@ with open("index.md", "w", encoding='utf-8') as f:
     count = len(image_names)
     for name in image_names:
         count = count - 1
+
         name_without_extension = os.path.splitext(name)[0]
+        if name_without_extension.startswith("IMG_"):
+            name_without_extension = ""
+
         if count == 0:
             formatted_string = f'''        ["gallery/images/{name}","gallery/images/{name}",{name_without_extension}]'''
         else:            
