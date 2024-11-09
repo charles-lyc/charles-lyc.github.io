@@ -33,10 +33,10 @@
     <title>海南</title>
     <url>/2023/05/19/%E6%B5%B7%E5%8D%97%E4%B9%8B%E6%97%85/%E6%B5%B7%E5%8D%97%E4%B9%8B%E6%97%85/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>
-        <div id="aplayer-luPFoQkn" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-ocdRGvOy" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":3,"width":"auto","mode":"circulation","mutex":true,"listmaxheight":"100px","preload":"metadata","music":[{"title":"飞机场的1030","author":"陶喆","url":"/media/飞机场的10_30 - 陶喆.mp3","pic":"/media/飞机场的10_30 - 陶喆.webp","lrc":"/media/飞机场的10_30 - 陶喆.lrc"},{"title":"Rocket Man","author":"Elton John","url":"/media/Rocket Man - Elton John.mp3","pic":"/media/Rocket Man - Elton John.jpg","lrc":"/media/Rocket Man - Elton John.lrc"}]};
-				  options.element = document.getElementById("aplayer-luPFoQkn");
+				  options.element = document.getElementById("aplayer-ocdRGvOy");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
