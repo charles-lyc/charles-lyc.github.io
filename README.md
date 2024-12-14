@@ -18,7 +18,7 @@ This GitHub Page provides corresponding materials to some of my projects.
 
 ## About me
 
-A software engineer. Hobby is robot🤖, football⚽, video game🏓 and making staff🔧.
+A software engineer. My hobbies are robot🤖, football⚽, video game🏓 and making staff🔧.
 
 You can follow me on:
 - [Douban 豆瓣](https://www.douban.com/people/Charles--Lee/statuses)
