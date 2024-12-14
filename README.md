@@ -4,7 +4,7 @@ This GitHub Page provides corresponding materials to some of my projects.
 
 ## Projects
 
-<!-- - robot: A robot platform with LiDAR and Dual camera, base on Mec3 -->
+- robot: A robot platform with LiDAR and Dual camera base on Mec3, with AI features in backend(through WLAN to desktop computer).
 - Mec3: An omniwheels chassis for robot, base on F1OC driver
 - [F1OC](https://github.com/szdiy/pulse_printer): A tiny STM32F1-based FOC controller
 - [Pindar](https://github.com/charles-lyc/pindar): An electronic building blocks for makers
