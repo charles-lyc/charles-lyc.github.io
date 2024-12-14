@@ -4,7 +4,7 @@ This GitHub Page provides corresponding materials to some of my projects.
 
 ## Projects
 
-- robot: A robot platform with LiDAR and Dual camera base on Mec3, with AI features in backend(through WLAN to desktop computer).
+- Robot: A robot platform with LiDAR and Dual camera base on Mec3, with SLAM and AI features in backend(through WLAN to a desktop computer).
 - Mec3: An omniwheels chassis for robot, base on F1OC driver
 - [F1OC](https://github.com/charles-lyc/f1oc): A tiny STM32F1-based FOC controller
 - [Pindar](https://github.com/charles-lyc/pindar): An electronic building blocks for makers
@@ -18,7 +18,7 @@ This GitHub Page provides corresponding materials to some of my projects.
 
 ## About me
 
-A software engineer. My hobbies are robot🤖, football⚽, video game🏓 and making staff🔧.
+A software engineer. My hobbies are robot🐱‍💻, football⚽, video game🎾 and making staff🔫.
 
 You can follow me on:
 - [Douban 豆瓣](https://www.douban.com/people/Charles--Lee/statuses)
