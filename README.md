@@ -13,8 +13,8 @@ This GitHub Page provides corresponding materials to some of my projects.
 
 - [PulsePrinter](https://github.com/szdiy/pulse_printer): A tiny printer, illustrating your heart beat rate(roughly)
 - [MagLev](https://github.com/charles-lyc/maglev): A magnetic leviation 
-- [led_clock](https://github.com/charles-lyc/maglev): An LED matrix clock, disp temp/humidity/weather 
-- [segway](https://github.com/charles-lyc/maglev): A two wheel vehicle 
+- [Led Clock](https://github.com/charles-lyc/led_clock): An LED matrix clock, disp temp/humidity/weather 
+- [Segway](https://github.com/charles-lyc/segway): A two wheel vehicle 
 
 ## About me
 
