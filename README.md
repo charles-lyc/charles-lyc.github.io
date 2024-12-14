@@ -5,13 +5,14 @@ This GitHub Page provides corresponding materials to some of my projects.
 ## Projects
 
 <!-- - Smart home dashbutton ([GitHub](https://github.com/makermoekoe/Smarthome-dashbutton) - [Instructables](https://www.instructables.com/id/How-to-Build-a-Dashbutton-for-the-Internet-of-Thin/)) -->
-- Mec3: An omniwheels chassis for robot 
-- [F1OC](https://github.com/szdiy/pulse_printer): A tiny STM32F1 based FOC controller
-- [Pindar](https://github.com/charles-lyc/pindar): Electronic dev building blocks 
+- robot: A robot platform with LiDAR and Dual camera, base on Mec3
+- Mec3: An omniwheels chassis for robot, base on F1OC driver
+- [F1OC](https://github.com/szdiy/pulse_printer): A tiny STM32F1-based FOC controller
+- [Pindar](https://github.com/charles-lyc/pindar): An electronic building blocks for makers
 
 ## 5 Minute Projects
 
-- [PulsePrinter](https://github.com/szdiy/pulse_printer): A tiny thermal-paper printer, illustrating your heart beat rate curve(roughly)
+- [PulsePrinter](https://github.com/szdiy/pulse_printer): A tiny printer, illustrating your heart beat rate(roughly)
 - [MagLev](https://github.com/charles-lyc/maglev): A magnetic leviation 
 - [led_clock](https://github.com/charles-lyc/maglev): An LED matrix clock, disp temp/humidity/weather 
 - [segway](https://github.com/charles-lyc/maglev): A two wheel vehicle 
