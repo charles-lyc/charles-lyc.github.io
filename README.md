@@ -13,10 +13,12 @@ This GitHub Page provides corresponding materials to some of my projects.
 
 - [PulsePrinter](https://github.com/szdiy/pulse_printer): A tiny thermal-paper printer, illustrating your heart beat rate curve(roughly)
 - [MagLev](https://github.com/charles-lyc/maglev): A magnetic leviation 
+- [led_clock](https://github.com/charles-lyc/maglev): An LED matrix clock, disp temp/humidity/weather 
+- [segway](https://github.com/charles-lyc/maglev): A two wheel vehicle 
 
 ## Follow me
 
 You can follow me on:
-- [Douban](https://www.douban.com/people/Charles--Lee/statuses)
+- [Douban 豆瓣](https://www.douban.com/people/Charles--Lee/statuses)
 
-Have fun doing arts and crafts
+Have fun!
