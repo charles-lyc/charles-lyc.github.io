@@ -24,4 +24,4 @@ You can follow me on:
 - [Douban 豆瓣](https://www.douban.com/people/Charles--Lee/statuses)
 
 
-Have fun!
+HAVE FUN!
