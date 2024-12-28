@@ -20,8 +20,10 @@ This GitHub Page provides corresponding materials to some of my projects.
 
 An embeded software engineer. I like robot🐱, football⚽, video games🎾 and making staffs🔫.
 
-You can follow me on:
+My life is on:
 - [Douban 豆瓣](https://www.douban.com/people/Charles--Lee/statuses)
+- WeChat: lychaoooo
+- Contact me: charleslee.lyc@gmail.com
 
 
 HAVE FUN!
