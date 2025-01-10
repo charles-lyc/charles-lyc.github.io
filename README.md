@@ -1,27 +1,3 @@
----
-title: "Link in Xaringan"
-output: xaringan::moon_reader
----
-
-```{css, echo=FALSE}
-.link-style1 a {
-  color: blue;
-  text-decoration: underline;
-}
-
-.link-style2 a {
- color: blue;
-}
-
-```
-
-# Adding Email and website link
-
-E-mail: .link-style1[[example@gmail.com](mailto:example@gmail.com)]
-
-Also visit this page .link-style2[[wikipedia](https://en.wikipedia.org/wiki/Main_Page)]
-
-
 # Welcome to chao's space
 
 This GitHub Page provides corresponding materials to some of my projects.
@@ -47,6 +23,6 @@ An embeded software engineer. I like robot🐱, football⚽, video games🎾 and
 My life is on:
 - [Douban 豆瓣](https://www.douban.com/people/Charles--Lee/statuses)
 - WeChat: lychaoooo
-- Feel free to contact me: charleslee.lyc@gmail.com
+- Feel free to contact me: [charleslee.lyc@gmail.com](charleslee.lyc@gmail.com)
 
 HAVE FUN!
